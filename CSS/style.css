@@ -1,0 +1,9 @@
+body{
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(33, 37, 41);
+    color: white;
+}
+.nav-link{
+    color: white;
+}

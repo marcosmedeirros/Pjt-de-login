@@ -1,0 +1,11 @@
+O login tem dois usuario salvos
+
+1- 
+login: Marcos
+senha: 12
+
+2= 
+login: teste
+senha: 12
+
+Para sair o usuario precisa passar o mouse em cima da dela no canto superior direito, assim aparecerá a opcão sair.
